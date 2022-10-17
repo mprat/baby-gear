@@ -1,5 +1,8 @@
 ---
-layout: about
+layout: post
+hidden:
+  - navigator
+  - related_posts
 title: About
 permalink: /about/
 ---
@@ -15,7 +18,7 @@ For us the criteria for choosing products related to babies is fluid based on th
 - **Physically safe**. This one is broad and open to interpretation, also varied with age. But for example tiny magnets for a 6 month old are a NO. Sharp edges, pokeability, etc, all fall under this bucket.
 - **No known toxins**. There are some things that are known carcinogenic materials (for example BPA) that we try to avoid whenever possible. This of course is hard to completely achieve since there is a lot that we don't know. But we do our best. Things we specifically try to avoid are BPA, phthalates, and lead. 
 - **Sustainable**. When buying new, we try to avoid plastic when possible. Wood, metal, cotton, etc. are preferred: we love our planet and hope our kids can enjoy it for a long time. In our day to day purchases we try to buy used whenever possible, since especially for baby gear the useful time period is so small. But we all know that sometimes this isn't possible and you need to buy something new to guarantee that you have it when you need it!
-- **Direct buying**. When possible, we prefer to buy directly from the manufacturer or company producing the object. This way, more of our hard-earned dollars go to the company we want to support rather than the middleman, reseller, or shipper. It also guarantees that we get the product we're looking for, rather than a drop-shipped knockoff. We apply this to any affiliate links as well: when possible the affiliate links and deals go directly to the company website. If a company (from their website) links to their Amazon store, we consider those links OK too. Read more in our [full advertising disclosure](/disclosure.html).
+- **Direct buying**. When possible, we prefer to buy directly from the manufacturer or company producing the object. This way, more of our hard-earned dollars go to the company we want to support rather than the middleman, reseller, or shipper. It also guarantees that we get the product we're looking for, rather than a drop-shipped knockoff. We apply this to any affiliate links as well: when possible the affiliate links and deals go directly to the company website. If a company (from their website) links to their Amazon store, we consider those links OK too. Read more in our [full advertising disclosure](/disclosure/).
 - **Practical**. The thing we are trying to buy should actually solve the problem we're trying to solve. Sometimes this means we compromise on one of the other tenets, and that's ok.
 
 We want to share our research with you, since we did all this work anyway! If you have any comments, questions, or suggestions, please let us know by sending an email to {% include emailus.md %}.

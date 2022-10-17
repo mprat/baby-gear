@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: about
+title: Disclosures
+permalink: /disclosure/
 ---
 
 # Disclosures
