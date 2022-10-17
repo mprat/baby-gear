@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  "LAUNCH!"
-date:   2022-09-18 11:04:51 -0400
+title:  "Launch!"
+categories: info
+excerpt_size: 70
 published: false
 ---
 
-Launching Pretty Good Baby Gear.
+Today we're launching the site [Pretty Good Baby Gear]({{ site.production_url }}). We're excited to share what we've learned about baby products with anyone else who is looking.
+
+We aren't that far into our parenting journey, and as we go through the various phases, we'll visit and revisit the products that we're buying, using, and recommending. Parenting is such an individual journey, and our product recommendations are a reflection of a snapshot in time. We have our own parenting values, ideas, and practicalities to live with. They might not be for you! That's OK - we aren't here to judge or chide; we just want to document and record for others the baby gear that has worked for us, and why. Sometimes we'll offer way-over-the-top detailed explanations for why we used a particular object, and other times it will be as simple as "here's what we bought." We make no promises that the products will work as well for you as they did for us, so the best we can hope is to share our findings with you and let you try it out for yourself.
+
+You can always read more about [Pretty Good Baby Gear]({{ site.production_url }}) on our [about page](/about/).
+
+And with that, please enjoy.
