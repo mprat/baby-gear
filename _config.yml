@@ -13,7 +13,7 @@ github_username:  mprat
 # theme settings from jekyll-theme-yat
 # copyright: "Copyright (c) 2022-{currentYear} {author}"
 copyright: "Copyright (c) {currentYear} {author}"
-# google_analytics: [Tracking ID]
+google_analytics: "G-XDCBDET4C2"
 # sitemap: false
 header_pages:
   - index.markdown
