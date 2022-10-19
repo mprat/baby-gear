@@ -3,7 +3,6 @@ layout: post
 title:  "Launch!"
 categories: info
 excerpt_size: 70
-published: false
 ---
 
 Today we're launching the site [Pretty Good Baby Gear]({{ site.production_url }}). We're excited to share what we've learned about baby products with anyone else who is looking.
