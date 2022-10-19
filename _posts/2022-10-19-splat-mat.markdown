@@ -1,10 +1,9 @@
 ---
 title: Splat Mat
 layout: post
-tags: eating highchair feeding food
-categories: feeding eating
+tags: eating highchair food mess
+categories: eating
 excerpt_size: 282
-published: false
 ---
 
 One of the messiest endeavors you go through as a new parent is starting your child on solid foods. Food ends up on floors, in high chair nooks and crannies, on bibs, in hair, on clothes, you name it. The best advice I've ever heard for how to keep the mess down is to get a dog. Barring that (seems like a lot to adjust to when having a baby!), the next-best thing is to get a splat mat. A splat mat is an object you put down on the floor under the high chair to catch the detritus, hopefully saving you from having to mop your kitchen floor 5 times a day.
