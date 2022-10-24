@@ -15,12 +15,6 @@ github_username:  mprat
 copyright: "Copyright (c) {currentYear} {author}"
 google_analytics: "G-XDCBDET4C2"
 # sitemap: false
-header_pages:
-  - index.markdown
-  # - archives.markdown
-  - categories.markdown
-  - tags.markdown
-  - about.markdown
 
 # Build settings
 remote_theme: "jeffreytse/jekyll-theme-yat"
