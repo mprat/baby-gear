@@ -3,6 +3,7 @@ title: Rubber Duck Bath Toys
 layout: post
 categories: bath
 tags: bath toys rubber
+excerpt_size: 200
 ---
 
 Every kid, whether they like it or not, will have to take a bath at some point. Since bath toys are a quintessential baby item, there are MANY out there. Here are the toys we think are _pretty good_.
