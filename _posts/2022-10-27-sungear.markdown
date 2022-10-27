@@ -1,0 +1,73 @@
+---
+title: Sunscreen and Sun Gear
+layout: post
+categories: outdoor
+tags: suncreen outdoor outside sun
+excerpt_size: 345
+---
+
+Who doesn't love playing outside? Kids not only love the fresh air, wind, leaves, dirt, sticks, rocks, mud, and sand, but they also love the open space (often bigger than rooms or playrooms!) and the chance to be free. Sun is good, but not too much, so we want to protect our little explorers from too much sun. Here are three recommendations: (1) sunscreen, (2) sun blanket, (3) sun hat.
+
+The benefits to playing ("recreating") and being outdoors is endless. There are studies going back all the way to the 1970s that attempt to dive into the benefits. Many of these studies ended up paving the way for schools to develop physical education programs, and the ongoing nature of some of these studies are leading to improvements in outdoor space usage, playground construction, recreation, and physical education at the state and local levels. If you're interested in learning more about this topic and what some of the literature is showing in terms of benefits, [check out the next section](#studies-outdoor-recreation) - we only share articles that are free to access! There is also a slew of articles discussing the risks of sunlight exposure, noise and air pollution, and the like, but they all generally agree that being outside is important for social, mental, and physical well-being.
+
+We also share a few links related to [safety of ingredients in sunscreens](#studies-sunscreen) that inform our choice of sunscreen. We have not found good products to decrease noise and air pollution while playing outside (short of going somewhere to play that is far from freeways and factories), but there are two products in addition to sunscreen that offer protection from the sun to limit our UV exposure: a sun blanket and a sun hat.
+
+If you aren't interested in reading the scientific articles, just [skip ahead to the product recommendations](#product-recommendations).
+
+## Studies: Outdoor Recreation
+
+It is challenging to study the effects of outdoor play in children. They don't make the best test subjects, defining "better" and "worse" outcomes is tricky if the goal is to be comprehensive, and access to outdoor spaces is different across children. However, a few labs and researchers have taken on this feat, and there are a few studies that discuss the benefits of green spaces for kids.
+
+* [This study published in the Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/epdf/10.1073/pnas.1503402112) in 2015 discusses green spaces and positive outcomes on elementary-school-aged children. It's pretty hard to study the outcomes for babies, so we choose to extrapolate slightly on the youngest cohorts. The bias of this study is that they are looking to improve green spaces in urban areas, so they aim to (and show) improvements in cognitive (i.e. memory) outcomes in primary age children who had access to green spaces.
+* [The California Department of Recreation](https://www.nps.gov/goga/learn/management/upload/1536_ca-health_benefits_081505-2.pdf) put together a pamphlet in 2005 discussing the benefits of outdoor recreation, with citations to many other studies showing decreased cardiovascular disease and obesity. These studies are older, often specific to California, and are done on larger cohorts of people than kids. Again, we extrapolate a little bit to young babies.
+
+The [FDA and AAP in the US recommend keeping babies out of direct sunlight](https://www.fda.gov/consumers/consumer-updates/should-you-put-sunscreen-infants-not-usually), however. The primary thing this avoids is the increased risk of skin cancer later in life, in addition to sunburns. We looked high and low for scientific studies and papers showing data about the risks of UV exposure, but they were either all paywalled or not informative enough. In the end, we are happy with the choice to limit sun exposure through wearing hats, covering up with clothing / blankets, staying in the shade, and applying mineral sunscreen over the age of 6 months.
+
+## Studies: Sunscreen
+
+In the sunscreen world, there are two primary types: "chemical" and "mineral" sunscreens. Chemical sunscreens are absorbed into the body, and the primary mechanism of action is that these chemical compounds themselves (rather than the cells in your body) absorb UV rays. Mineral sunscreens (containing primarily zinc oxide or titanium dioxide) are not absorbed and act as scattering agents when applied to the skin, scattering the UV rays away from the skin rather than having the rays be absorbed. Mineral sunscreens often have a "white" or "milky" look to them when applied to the skin - this makes sense, given that they lie on the surface of the skin rather than are immediately absorbed.
+
+This [article from the Journal of Clinical and Aesthetic Dermatology in 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3543289/) discusses various sunscreen agents, their mechanisms of action, and the "efficacy". I put efficacy in quotes because the effectiveness at preventing absorption of UV is just one metric - safety and side effects (like rashes) are separate. It is difficult to find studies on specific chemical compounds and safety, but the [FDA in 2019](https://www.fda.gov/news-events/press-announcements/fda-advances-new-proposed-regulation-make-sure-sunscreens-are-safe-and-effective) published a new proposed regulation that lists only two sunscreen ingredients (both mineral, zinc oxide and titanium dioxide) as being "generally recognized as safe and effective". Paired with the recommendation for using only mineral sunscreens for babies and young kids, the sunscreen we recommend contains zinc oxide as the active agent, and does not contain PABA (para-aminobenzoic acid) or trolamine salicylate, the two compounds the FDA listed as not safe due to safety concerns. The [final 2021 set of sunscreen regulations from the FDA](https://www.fda.gov/drugs/news-events-human-drugs/update-sunscreen-requirements-deemed-final-order-and-proposed-order) list an additional list of compounds for which there is insufficient data to confirm safety in sunscreens, so we choose to avoid those as well: cinoxate, dioxybenzone, ensulizole, homosalate, meradimate, octinoxate, octisalate, octocrylene, padimate O, sulisobenzone, oxybenzone, and avobenzone.
+
+Lastly, the last piece to think about with sunscreen is the SPF, or Sun Protection Factor. The [FDA defines SPF](https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/sun-protection-factor-spf) as the _amount_ (NOT the _time_) of solar exposure (specifically UVB rays) it takes to get a sunburn. While SPF is not a scientific measure in any way, and the amount of solar exposure is affected by the time of day you are outside (i.e. midday sun vs. dusk), your skin tone, whether you are in the shade, whether you re-apply sunscreen, etc. So what SPF is really good for is telling you the _relative_ protection factor between sunscreens, not an absolute amount of time. Additionally, since it only measures effectiveness against UVB rays, it is important to find a sunscreen that also blocks UVA.
+
+To that end, our final requirements list for a baby sunscreen is as follows:
+
+* **Small stick applicator** to apply, like a deodorant stick, rather than liquid goop, which may be easier to apply but also easier to accidentally get into a child's eyes or mouth.
+* **Zinc oxide or titanium dioxide active ingredient**, per the FDA regulations listed above.
+* **No PABA, trolamine salicylate, or cinoxate, dioxybenzone, ensulizole, homosalate, meradimate, octinoxate, octisalate, octocrylene, padimate O, sulisobenzone, oxybenzone, and avobenzone**, per the FDA regulations listed above.
+* **UVA and UVB protection**, since there are two primary UV bands that can cause potential harm.
+* **Highest SPF option available**, since SPF is most effectively used as a relative measure. 
+
+## Product Recommendations
+
+### Suncreen
+
+The [sunscreen from Thinkbaby](https://amzn.to/3gOx9j6) ticks all the boxes: small stick, zinc oxide active ingredient, no ingredients from the "no" list, natural ingredients in the inactive ingredients list, UVA and UVB protection, and a high SPF rating.
+
+<a href="https://www.amazon.com/gp/product/B01MSH6605?ie=UTF8&psc=1&linkCode=li2&tag=pgbg-20&linkId=4deb9c41e203ebbd6a1ee4fa04614fa3&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MSH6605&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pgbg-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pgbg-20&language=en_US&l=li2&o=1&a=B01MSH6605" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+If you don't care much about the stick applicator, and want to use a goop-based applicator, [Thinkbaby also makes an SPF 50 formulation](https://amzn.to/3TXvfuW) with the same active ingredient and different fillers.
+
+If you prefer to buy directly from the manufacturer (Thinkbaby), you can [order from their website directly](https://gothink.com/collections/thinkbaby-sunscreen).
+
+Thinkbaby as a company has a great mission - they do their research on consumer safety, and were founded on the idea that babies and kids (and lets be real, adults too!) don't need to be exposed to harmful chemicals, so they are a company we are proud to support.
+
+### Sun blanket
+
+If our babies are too small for sunscreen (i.e. under 6 months) and we want to make sure we get them UV protection, we can use a sun blanket. For older babies and kids as well, we might choose to use a sun blanket on their legs in a stroller, for example. The company [Coolibar](https://www.coolibar.com/mission.html) makes clothing and fabrics that are UPF (ultra-violet protection) rated, protecting against UVA and UVB rays on the covered areas.
+
+This [sun blanket on Amazon](https://amzn.to/3DcBxQy) has zinc oxide in the fabric, which scatters UV rays. The company also claims their fabrics are all UPF50+ rated, which is plenty! The fabric on this blanket is soft - cotton, bamboo vicose, and a smattering of spandex, making it comfy for your baby. It is large enough to fit over legs in a stroller or carseat, and can be used to cover up while sitting outside as well.
+
+<a href="https://www.amazon.com/gp/product/B01N3A8WDW?ie=UTF8&psc=1&linkCode=li2&tag=pgbg-20&linkId=cb903cd78a577049e1166ab5f1ae69ef&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N3A8WDW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pgbg-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pgbg-20&language=en_US&l=li2&o=1&a=B01N3A8WDW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+As always, you can also [buy directly from the company itself](https://www.coolibar.com).
+
+### Sun hat
+
+No set of sun recommendations is complete without a sun hat. We love our Sunday Afternoons hats. Two awesome features: (1) a strap under the chin to keep the hat in place, and (2) a "draping" flap at the back of the hat to cover the nape of the neck.
+
+We can wholeheartedly recommend both the [infant sunsprout hat](https://sundayafternoons.com/collections/kids-sun-hats/products/infant-sunsprout-hat) and the [kid's play hat](https://sundayafternoons.com/collections/kids-sun-hats/products/kids-play-hat) version, either [on Amazon](https://amzn.to/3gK9DnA) or [from the company directly](https://sundayafternoons.com/). Bonus points, they come in a variety of colors!
+
+| <a href="https://www.amazon.com/Sunday-Afternoons-Unisex-Child-Infant-Sunsprout/dp/B0823FHGZP?keywords=sunday+afternoons+infant+sunsprout+hat&qid=1666891718&qu=eyJxc2MiOiIzLjIxIiwicXNhIjoiMi42NyIsInFzcCI6IjIuMTYifQ%3D%3D&sprefix=sunday+afternoons+infant+sun%2Caps%2C167&sr=8-2&linkCode=li2&tag=pgbg-20&linkId=e5b378ec9ccf6df00c82549bb4283b66&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0823FHGZP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pgbg-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pgbg-20&language=en_US&l=li2&o=1&a=B0823FHGZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | <a href="https://www.amazon.com/Sunday-Afternoons-Large-Electric-Stripe/dp/B09H79FZCC?crid=35LWYZCFXYHM2&keywords=sunday%2Bafternoons%2Bkids%2Bplay%2Bhat&qid=1666891745&qu=eyJxc2MiOiI0LjIyIiwicXNhIjoiMy40NiIsInFzcCI6IjMuMjcifQ%3D%3D&sprefix=sunday%2Bafternoons%2Bkids%2Bplay%2Bhat%2Caps%2C101&sr=8-4&th=1&linkCode=li2&tag=pgbg-20&linkId=2bb9acfb7a1acdf44673ad4a3b8e1c3c&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09H79FZCC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=pgbg-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=pgbg-20&language=en_US&l=li2&o=1&a=B09H79FZCC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
+
